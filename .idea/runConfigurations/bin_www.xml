@@ -2,7 +2,7 @@
   <configuration default="false" name="bin\www" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
     <envs>
       <env name="DEBUG" value="astropix:*" />
-      <env name="api_key" value="NlJJ3ZgvxQOQJgQly3rLPxccQ3sAeKBmOhYBgg7j" />
+      <env name="APOD_API_KEY" value="NlJJ3ZgvxQOQJgQly3rLPxccQ3sAeKBmOhYBgg7j" />
     </envs>
     <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
       <browser url="http://localhost:3000/" />
