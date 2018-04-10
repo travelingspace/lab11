@@ -10,7 +10,7 @@ otherwise, fetch a random image.
 */
 
 // set debug=true to see the messages from NASA, false to ignore.
-var debug = true;
+var debug = false;
 
 var baseURL = 'https://api.nasa.gov/planetary/apod';
 
@@ -32,7 +32,7 @@ function apodRequest(callback, type) {
         debugMessage('APOD request starting for ' + type === 'random' ? 'random picture' : 'today\'s picture');
 
         // Uncomment this line to force the error page to display. Alternativly, disconnect from the internet, use an invalid API key...
-        // return callback({message: 'Not really an error'});
+        //return callback({message: 'Not really an error'});
 
         var queryParam = {};
         var APIKEY = process.env.APOD_API_KEY;  // Make sure an environment variable is set, containing a valid APOD key
