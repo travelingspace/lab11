@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4348d5c1-b84e-4b66-9ae6-79e90b735dd2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/views/partials/navigation.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/navigation.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navigation.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigation.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/navigation.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="136">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -54,6 +64,7 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/layout.hbs" />
         <option value="$PROJECT_DIR$/views/partials/navigation.hbs" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
       </list>
     </option>
   </component>
@@ -154,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523398305824</updated>
-      <workItem from="1523398307084" duration="1763000" />
+      <workItem from="1523398307084" duration="2077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1763000" />
+    <option name="totallyTimeSpent" value="2077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -208,8 +219,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/navigation.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        <state relative-caret-position="136">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
