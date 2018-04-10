@@ -1,2 +1,10 @@
-<h1>{{title}}</h1>
-<p>Welcome to {{title}}</p>
+<h1>{{apod.title}}</h1>
+
+{{#if apod.is_image}}
+    <img src="{{apod.url}}">
+
+{{else}}
+
+    <p>This picture is a video or other media type. Please <a href="{{apod.nasa_url}}">click here</a></p>
+
+{{/if}}
